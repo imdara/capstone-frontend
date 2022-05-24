@@ -1,4 +1,6 @@
-# login/signup
+# capstone-frontend
+
+## login/signup
 for login you can use <b>testboy@mail</b> for email and <b>test1234</b> for password or sign up with a new user account instead
 
 ## getting started
